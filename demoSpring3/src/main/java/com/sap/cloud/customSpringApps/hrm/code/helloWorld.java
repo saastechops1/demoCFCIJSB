@@ -8,7 +8,7 @@ public class helloWorld {
 	
 	@RequestMapping("/helloworld")
 	public String helloWorld() {
-		return "Hello World !";
+		return "Hello World with CI Automation !";
 	}
 
 }
